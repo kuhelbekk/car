@@ -1,0 +1,61 @@
+
+puzzle7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1022
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 606
+  size: 608, 414
+  orig: 608, 414
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1284, 1578
+  size: 588, 244
+  orig: 588, 244
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 376
+  size: 504, 228
+  orig: 504, 228
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 612, 714
+  size: 322, 306
+  orig: 322, 306
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1284, 1316
+  size: 360, 260
+  orig: 360, 260
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 26
+  size: 268, 348
+  orig: 268, 348
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 272, 2
+  size: 236, 372
+  orig: 236, 372
+  offset: 0, 0
+  index: -1

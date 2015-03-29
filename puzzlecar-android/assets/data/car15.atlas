@@ -1,0 +1,68 @@
+
+car15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 203
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+lobovuha
+  rotate: false
+  xy: 2, 2
+  size: 339, 199
+  orig: 339, 199
+  offset: 0, 0
+  index: -1
+kapot
+  rotate: false
+  xy: 1284, 812
+  size: 320, 191
+  orig: 320, 191
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 1284, 574
+  size: 274, 236
+  orig: 274, 236
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 1284, 340
+  size: 257, 232
+  orig: 257, 232
+  offset: 0, 0
+  index: -1
+seats
+  rotate: false
+  xy: 343, 2
+  size: 216, 199
+  orig: 216, 199
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1606, 824
+  size: 173, 179
+  orig: 173, 179
+  offset: 0, 0
+  index: -1
+wheel_b
+  rotate: false
+  xy: 561, 22
+  size: 173, 179
+  orig: 173, 179
+  offset: 0, 0
+  index: -1
+wheel_f
+  rotate: false
+  xy: 1781, 824
+  size: 173, 179
+  orig: 173, 179
+  offset: 0, 0
+  index: -1

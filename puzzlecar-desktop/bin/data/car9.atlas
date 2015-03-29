@@ -1,0 +1,61 @@
+
+car9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 185
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+excov
+  rotate: false
+  xy: 1284, 634
+  size: 385, 351
+  orig: 385, 351
+  offset: 0, 0
+  index: -1
+kovsh_crop
+  rotate: false
+  xy: 1284, 359
+  size: 399, 273
+  orig: 399, 273
+  offset: 0, 0
+  index: -1
+kovsh_full
+  rotate: false
+  xy: 1284, 84
+  size: 399, 273
+  orig: 399, 273
+  offset: 0, 0
+  index: -1
+kabin_crop
+  rotate: false
+  xy: 1671, 812
+  size: 193, 173
+  orig: 193, 173
+  offset: 0, 0
+  index: -1
+kabin_full
+  rotate: false
+  xy: 2, 10
+  size: 193, 173
+  orig: 193, 173
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1866, 804
+  size: 169, 181
+  orig: 169, 181
+  offset: 0, 0
+  index: -1
+wheel_back
+  rotate: false
+  xy: 197, 2
+  size: 169, 181
+  orig: 169, 181
+  offset: 0, 0
+  index: -1

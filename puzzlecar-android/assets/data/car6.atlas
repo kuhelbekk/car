@@ -1,0 +1,68 @@
+
+car6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 210
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+kapot
+  rotate: false
+  xy: 2, 2
+  size: 337, 206
+  orig: 337, 206
+  offset: 0, 0
+  index: -1
+door_f
+  rotate: false
+  xy: 1284, 729
+  size: 211, 281
+  orig: 211, 281
+  offset: 0, 0
+  index: -1
+lobovuha
+  rotate: false
+  xy: 341, 4
+  size: 259, 204
+  orig: 259, 204
+  offset: 0, 0
+  index: -1
+door_b
+  rotate: false
+  xy: 1284, 483
+  size: 181, 244
+  orig: 181, 244
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 1497, 871
+  size: 197, 139
+  orig: 197, 139
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 602, 44
+  size: 161, 164
+  orig: 161, 164
+  offset: 0, 0
+  index: -1
+wheel_b
+  rotate: false
+  xy: 1284, 317
+  size: 161, 164
+  orig: 161, 164
+  offset: 0, 0
+  index: -1
+wheel_f
+  rotate: false
+  xy: 765, 44
+  size: 161, 164
+  orig: 161, 164
+  offset: 0, 0
+  index: -1

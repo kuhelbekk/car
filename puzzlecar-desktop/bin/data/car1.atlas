@@ -1,0 +1,75 @@
+
+car1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 182
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 1284, 639
+  size: 213, 343
+  orig: 213, 343
+  offset: 0, 0
+  index: -1
+backdoor
+  rotate: false
+  xy: 1284, 320
+  size: 172, 317
+  orig: 172, 317
+  offset: 0, 0
+  index: -1
+kapot
+  rotate: false
+  xy: 2, 8
+  size: 306, 172
+  orig: 306, 172
+  offset: 0, 0
+  index: -1
+lobovuha
+  rotate: false
+  xy: 1499, 791
+  size: 241, 191
+  orig: 241, 191
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1742, 804
+  size: 174, 178
+  orig: 174, 178
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 310, 12
+  size: 183, 168
+  orig: 183, 168
+  offset: 0, 0
+  index: -1
+wheel_b
+  rotate: false
+  xy: 495, 2
+  size: 174, 178
+  orig: 174, 178
+  offset: 0, 0
+  index: -1
+wheel_f
+  rotate: false
+  xy: 671, 2
+  size: 174, 178
+  orig: 174, 178
+  offset: 0, 0
+  index: -1
+migalka
+  rotate: false
+  xy: 1284, 207
+  size: 167, 111
+  orig: 167, 111
+  offset: 0, 0
+  index: -1

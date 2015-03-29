@@ -1,0 +1,61 @@
+
+puzzle14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1014
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 508
+  size: 508, 504
+  orig: 508, 504
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1284, 1408
+  size: 385, 406
+  orig: 385, 406
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 254
+  size: 432, 252
+  orig: 432, 252
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 512, 682
+  size: 334, 330
+  orig: 334, 330
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 405, 250
+  orig: 405, 250
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1284, 1114
+  size: 350, 292
+  orig: 350, 292
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1671, 1506
+  size: 304, 308
+  orig: 304, 308
+  offset: 0, 0
+  index: -1

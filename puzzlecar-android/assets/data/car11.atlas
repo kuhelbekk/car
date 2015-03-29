@@ -1,0 +1,68 @@
+
+car11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 196
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+kuzov
+  rotate: false
+  xy: 1284, 713
+  size: 407, 283
+  orig: 407, 283
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 1284, 407
+  size: 169, 304
+  orig: 169, 304
+  offset: 0, 0
+  index: -1
+lobovuha
+  rotate: false
+  xy: 1693, 771
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+kapot
+  rotate: false
+  xy: 2, 2
+  size: 247, 192
+  orig: 247, 192
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 1455, 525
+  size: 179, 186
+  orig: 179, 186
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1284, 250
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+wheel_b
+  rotate: false
+  xy: 251, 39
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+wheel_f
+  rotate: false
+  xy: 403, 39
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1

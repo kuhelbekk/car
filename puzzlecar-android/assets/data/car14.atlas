@@ -1,0 +1,82 @@
+
+car14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 222
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+kuzov
+  rotate: false
+  xy: 1284, 696
+  size: 743, 326
+  orig: 743, 326
+  offset: 0, 0
+  index: -1
+kuzov_crop
+  rotate: false
+  xy: 1284, 368
+  size: 743, 326
+  orig: 743, 326
+  offset: 0, 0
+  index: -1
+wheel_b
+  rotate: false
+  xy: 2, 8
+  size: 320, 212
+  orig: 320, 212
+  offset: 0, 0
+  index: -1
+wheel_b_crop
+  rotate: false
+  xy: 324, 8
+  size: 320, 212
+  orig: 320, 212
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 646, 2
+  size: 134, 218
+  orig: 134, 218
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 782, 46
+  size: 176, 174
+  orig: 176, 174
+  offset: 0, 0
+  index: -1
+wheel_f
+  rotate: false
+  xy: 960, 46
+  size: 176, 174
+  orig: 176, 174
+  offset: 0, 0
+  index: -1
+benzobak
+  rotate: false
+  xy: 1284, 212
+  size: 172, 154
+  orig: 172, 154
+  offset: 0, 0
+  index: -1
+lobovuha
+  rotate: false
+  xy: 1458, 215
+  size: 130, 151
+  orig: 130, 151
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 1138, 92
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1

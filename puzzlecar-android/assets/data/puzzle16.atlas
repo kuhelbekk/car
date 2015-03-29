@@ -1,0 +1,117 @@
+
+puzzle16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1112
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 647
+  size: 321, 463
+  orig: 321, 463
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1284, 1435
+  size: 263, 477
+  orig: 263, 477
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 325, 796
+  size: 395, 314
+  orig: 395, 314
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1549, 1773
+  size: 496, 139
+  orig: 496, 139
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 722, 933
+  size: 444, 177
+  orig: 444, 177
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 265
+  size: 207, 380
+  orig: 207, 380
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1549, 1621
+  size: 436, 150
+  orig: 436, 150
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1284, 1158
+  size: 267, 275
+  orig: 267, 275
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 2
+  size: 255, 261
+  orig: 255, 261
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 325, 544
+  size: 290, 250
+  orig: 290, 250
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1549, 1449
+  size: 258, 170
+  orig: 258, 170
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1553, 1252
+  size: 281, 195
+  orig: 281, 195
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 722, 852
+  size: 299, 79
+  orig: 299, 79
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 617, 568
+  size: 151, 226
+  orig: 151, 226
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 770, 674
+  size: 214, 176
+  orig: 214, 176
+  offset: 0, 0
+  index: -1

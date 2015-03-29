@@ -1,0 +1,68 @@
+
+car7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 206
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+kapot
+  rotate: false
+  xy: 1284, 771
+  size: 380, 235
+  orig: 380, 235
+  offset: 0, 0
+  index: -1
+bamper
+  rotate: false
+  xy: 1284, 503
+  size: 331, 266
+  orig: 331, 266
+  offset: 0, 0
+  index: -1
+rama
+  rotate: false
+  xy: 1284, 243
+  size: 273, 258
+  orig: 273, 258
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1666, 763
+  size: 231, 243
+  orig: 231, 243
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 2, 2
+  size: 254, 202
+  orig: 254, 202
+  offset: 0, 0
+  index: -1
+wheel_f
+  rotate: false
+  xy: 1617, 518
+  size: 231, 243
+  orig: 231, 243
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 1899, 715
+  size: 143, 291
+  orig: 143, 291
+  offset: 0, 0
+  index: -1
+wheel_b
+  rotate: false
+  xy: 1559, 258
+  size: 227, 243
+  orig: 227, 243
+  offset: 0, 0
+  index: -1

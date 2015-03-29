@@ -1,0 +1,61 @@
+
+car13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 176
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+kapot
+  rotate: false
+  xy: 2, 2
+  size: 318, 172
+  orig: 318, 172
+  offset: 0, 0
+  index: -1
+truba
+  rotate: false
+  xy: 1284, 745
+  size: 244, 231
+  orig: 244, 231
+  offset: 0, 0
+  index: -1
+bamper
+  rotate: false
+  xy: 1284, 495
+  size: 192, 248
+  orig: 192, 248
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 1530, 750
+  size: 200, 226
+  orig: 200, 226
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 322, 6
+  size: 170, 168
+  orig: 170, 168
+  offset: 0, 0
+  index: -1
+seat
+  rotate: false
+  xy: 1284, 366
+  size: 120, 127
+  orig: 120, 127
+  offset: 0, 0
+  index: -1
+seat_crop
+  rotate: false
+  xy: 1732, 849
+  size: 120, 127
+  orig: 120, 127
+  offset: 0, 0
+  index: -1

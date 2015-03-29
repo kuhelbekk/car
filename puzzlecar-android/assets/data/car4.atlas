@@ -1,0 +1,61 @@
+
+car4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 202
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+kuzov_crop
+  rotate: false
+  xy: 1284, 707
+  size: 374, 295
+  orig: 374, 295
+  offset: 0, 0
+  index: -1
+kuzov_full
+  rotate: false
+  xy: 1284, 410
+  size: 374, 295
+  orig: 374, 295
+  offset: 0, 0
+  index: -1
+kabina
+  rotate: false
+  xy: 2, 2
+  size: 219, 198
+  orig: 219, 198
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1660, 802
+  size: 189, 200
+  orig: 189, 200
+  offset: 0, 0
+  index: -1
+wheel_for
+  rotate: false
+  xy: 1284, 210
+  size: 187, 198
+  orig: 187, 198
+  offset: 0, 0
+  index: -1
+bamper
+  rotate: false
+  xy: 223, 33
+  size: 190, 167
+  orig: 190, 167
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 1660, 681
+  size: 145, 119
+  orig: 145, 119
+  offset: 0, 0
+  index: -1

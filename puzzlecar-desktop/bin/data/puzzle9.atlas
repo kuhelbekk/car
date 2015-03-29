@@ -1,0 +1,61 @@
+
+puzzle9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1142
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 812
+  size: 579, 328
+  orig: 579, 328
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1284, 1626
+  size: 560, 316
+  orig: 560, 316
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 534
+  size: 560, 276
+  orig: 560, 276
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1284, 1266
+  size: 360, 358
+  orig: 360, 358
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 583, 953
+  size: 405, 187
+  orig: 405, 187
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 268
+  size: 312, 264
+  orig: 312, 264
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 268, 264
+  orig: 268, 264
+  offset: 0, 0
+  index: -1

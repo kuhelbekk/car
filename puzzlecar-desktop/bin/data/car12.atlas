@@ -1,0 +1,75 @@
+
+car12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 190
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+kapot
+  rotate: false
+  xy: 2, 2
+  size: 317, 186
+  orig: 317, 186
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 1284, 717
+  size: 218, 273
+  orig: 218, 273
+  offset: 0, 0
+  index: -1
+window_f
+  rotate: false
+  xy: 1504, 795
+  size: 238, 195
+  orig: 238, 195
+  offset: 0, 0
+  index: -1
+bamper
+  rotate: false
+  xy: 1744, 800
+  size: 225, 190
+  orig: 225, 190
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 321, 39
+  size: 180, 149
+  orig: 180, 149
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1284, 551
+  size: 162, 164
+  orig: 162, 164
+  offset: 0, 0
+  index: -1
+wheel_b
+  rotate: false
+  xy: 1284, 384
+  size: 161, 165
+  orig: 161, 165
+  offset: 0, 0
+  index: -1
+wheel_f
+  rotate: false
+  xy: 1284, 218
+  size: 162, 164
+  orig: 162, 164
+  offset: 0, 0
+  index: -1
+window_b
+  rotate: false
+  xy: 503, 108
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: -1

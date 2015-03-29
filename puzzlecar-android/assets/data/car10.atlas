@@ -1,0 +1,68 @@
+
+car10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 215
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+kapot
+  rotate: false
+  xy: 2, 2
+  size: 356, 211
+  orig: 356, 211
+  offset: 0, 0
+  index: -1
+bamper
+  rotate: false
+  xy: 1284, 808
+  size: 297, 207
+  orig: 297, 207
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 1284, 533
+  size: 197, 273
+  orig: 197, 273
+  offset: 0, 0
+  index: -1
+spoiler
+  rotate: false
+  xy: 360, 59
+  size: 279, 154
+  orig: 279, 154
+  offset: 0, 0
+  index: -1
+lobovuha
+  rotate: false
+  xy: 1583, 837
+  size: 244, 178
+  orig: 244, 178
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1284, 355
+  size: 171, 176
+  orig: 171, 176
+  offset: 0, 0
+  index: -1
+wheel_b
+  rotate: false
+  xy: 1829, 839
+  size: 171, 176
+  orig: 171, 176
+  offset: 0, 0
+  index: -1
+wheel_f
+  rotate: false
+  xy: 641, 37
+  size: 171, 176
+  orig: 171, 176
+  offset: 0, 0
+  index: -1

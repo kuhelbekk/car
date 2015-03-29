@@ -1,0 +1,68 @@
+
+car2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 210
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 2, 2
+  size: 307, 206
+  orig: 307, 206
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 1284, 682
+  size: 162, 328
+  orig: 162, 328
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 311, 77
+  size: 279, 131
+  orig: 279, 131
+  offset: 0, 0
+  index: -1
+f_wheel
+  rotate: false
+  xy: 1284, 517
+  size: 137, 163
+  orig: 137, 163
+  offset: 0, 0
+  index: -1
+migalka
+  rotate: false
+  xy: 1448, 927
+  size: 217, 83
+  orig: 217, 83
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1448, 776
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+b_wheel
+  rotate: false
+  xy: 1284, 373
+  size: 111, 142
+  orig: 111, 142
+  offset: 0, 0
+  index: -1
+emblem
+  rotate: false
+  xy: 592, 88
+  size: 111, 120
+  orig: 111, 120
+  offset: 0, 0
+  index: -1

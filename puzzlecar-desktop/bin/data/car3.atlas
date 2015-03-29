@@ -1,0 +1,75 @@
+
+car3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 215
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+lob
+  rotate: false
+  xy: 2, 2
+  size: 272, 211
+  orig: 272, 211
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 1284, 701
+  size: 121, 314
+  orig: 121, 314
+  offset: 0, 0
+  index: -1
+bamper
+  rotate: false
+  xy: 276, 99
+  size: 289, 114
+  orig: 289, 114
+  offset: 0, 0
+  index: -1
+stekla
+  rotate: false
+  xy: 1407, 822
+  size: 208, 193
+  orig: 208, 193
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 1617, 877
+  size: 255, 138
+  orig: 255, 138
+  offset: 0, 0
+  index: -1
+wheel_forward
+  rotate: false
+  xy: 1874, 842
+  size: 161, 173
+  orig: 161, 173
+  offset: 0, 0
+  index: -1
+luk
+  rotate: false
+  xy: 276, 28
+  size: 220, 69
+  orig: 220, 69
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1284, 556
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+wheel_back
+  rotate: false
+  xy: 1284, 411
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1

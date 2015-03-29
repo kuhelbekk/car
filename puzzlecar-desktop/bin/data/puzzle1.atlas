@@ -1,0 +1,33 @@
+
+puzzle1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 597
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 379, 593
+  orig: 379, 593
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1284, 1087
+  size: 632, 310
+  orig: 632, 310
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 383, 313
+  size: 632, 282
+  orig: 632, 282
+  offset: 0, 0
+  index: -1

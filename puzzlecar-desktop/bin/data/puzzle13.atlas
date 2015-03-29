@@ -1,0 +1,82 @@
+
+puzzle13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1075
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 666
+  size: 462, 407
+  orig: 462, 407
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1284, 1589
+  size: 571, 286
+  orig: 571, 286
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 263
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 466, 772
+  size: 348, 301
+  orig: 348, 301
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1284, 1397
+  size: 448, 190
+  orig: 448, 190
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 816, 787
+  size: 350, 286
+  orig: 350, 286
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1284, 1202
+  size: 349, 193
+  orig: 349, 193
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 2
+  size: 259, 259
+  orig: 259, 259
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 273, 361
+  size: 175, 303
+  orig: 175, 303
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1284, 971
+  size: 276, 229
+  orig: 276, 229
+  offset: 0, 0
+  index: -1

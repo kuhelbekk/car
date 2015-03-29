@@ -1,0 +1,75 @@
+
+car16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 184
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+wheels_f
+  rotate: false
+  xy: 1284, 743
+  size: 365, 241
+  orig: 365, 241
+  offset: 0, 0
+  index: -1
+wheel_b
+  rotate: false
+  xy: 1284, 408
+  size: 266, 333
+  orig: 266, 333
+  offset: 0, 0
+  index: -1
+engine
+  rotate: false
+  xy: 2, 2
+  size: 194, 180
+  orig: 194, 180
+  offset: 0, 0
+  index: -1
+engine_crop
+  rotate: false
+  xy: 1651, 804
+  size: 194, 180
+  orig: 194, 180
+  offset: 0, 0
+  index: -1
+fary
+  rotate: false
+  xy: 1284, 203
+  size: 160, 203
+  orig: 160, 203
+  offset: 0, 0
+  index: -1
+seat_crop
+  rotate: false
+  xy: 198, 119
+  size: 143, 63
+  orig: 143, 63
+  offset: 0, 0
+  index: -1
+seat_full
+  rotate: false
+  xy: 1847, 921
+  size: 143, 63
+  orig: 143, 63
+  offset: 0, 0
+  index: -1
+rul
+  rotate: false
+  xy: 1552, 643
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+truba
+  rotate: false
+  xy: 1446, 282
+  size: 68, 124
+  orig: 68, 124
+  offset: 0, 0
+  index: -1
